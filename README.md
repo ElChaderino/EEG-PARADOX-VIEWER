@@ -179,11 +179,11 @@ For screen capture issues:
 
 ### v1.0
 - Basic PDF and image viewing
-
-- https://www.youtube.com/watch?v=fm5uelGpsBI
 - Enhanced Mode accessibility features
 - Session memory
 
 ## 📄 License
 
 This tool is designed for professional EEG analysis and clinical use. 
+
+[![Beta Demo](https://img.youtube.com/vi/fm5uelGpsBI/0.jpg)](www.youtube.com/watch?v=fm5uelGpsBI&feature=youtu.be "Beta Demo")
