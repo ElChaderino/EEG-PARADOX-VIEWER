@@ -186,4 +186,4 @@ For screen capture issues:
 
 This tool is designed for professional EEG analysis and clinical use. 
 
-[![Beta Demo](https://img.youtube.com/vi/fm5uelGpsBI/0.jpg)](www.youtube.com/watch?v=fm5uelGpsBI&feature=youtu.be "Beta Demo")
+[![Beta Demo](https://img.youtube.com/vi/fm5uelGpsBI/0.jpg)](https://www.youtube.com/watch?v=fm5uelGpsB "Beta Demo")
