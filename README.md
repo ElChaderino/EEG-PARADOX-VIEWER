@@ -179,6 +179,8 @@ For screen capture issues:
 
 ### v1.0
 - Basic PDF and image viewing
+
+- https://www.youtube.com/watch?v=fm5uelGpsBI
 - Enhanced Mode accessibility features
 - Session memory
 
